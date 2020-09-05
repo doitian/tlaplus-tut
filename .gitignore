@@ -1,0 +1,11 @@
+*.pdf
+*.aux
+*.log
+*.tex
+*_SnapShot_*
+*.launch
+
+*.toolbox/model
+*.toolbox/**/*.tla
+*.toolbox/**/*.out
+*.toolbox/**/MC.cfg
